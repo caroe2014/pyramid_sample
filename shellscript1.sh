@@ -9,4 +9,4 @@ cd /home/site/wwwroot
 # source antenv/bin/activate
 echo Im here
 export PORT=8000
-pserver deployment.ini
+server deployment.ini
