@@ -11,13 +11,13 @@ variables:
   azureServiceConnectionId: '9f858e8e-a7d5-446c-8c18-61e3f0f395e6'
   
   # Web app name
-  webAppName: 'v-edcaropython36Linux'
+  webAppName: 'v-edcaroPython36Pyramid'
 
   # Agent VM image name
   vmImageName: 'ubuntu-latest'
 
   # Environment name
-  environmentName: 'v-edcaropython36Linux'
+  environmentName: 'v-edcaroPython36Pyramid'
 
   # Project root folder. Point to the folder containing manage.py file.
   projectRoot: $(System.DefaultWorkingDirectory)
